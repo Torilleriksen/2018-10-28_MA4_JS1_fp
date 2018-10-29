@@ -26,11 +26,11 @@ function notesTodo(jsonObj) {
   status.textContent = 'Status' + toDo[i].completed; 
      }
 
-section.appendChild(idNr);
-section.appendChild(noteNr);
-section.appendChild(whatTodo);  
-section.appendChild(status);
+noteCard.appendChild(idNr);
+noteCard.appendChild(noteNr);
+noteCard.appendChild(whatTodo);  
+noteCard.appendChild(status);
 
-
+section.appendChild(noteCard);
   }
 }
