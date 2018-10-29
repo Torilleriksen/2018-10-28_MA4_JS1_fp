@@ -1,8 +1,33 @@
 What is the DOM?
+Dom stands for Document Object model and refers to how documents are accessed and in what 
+structure.
+
 List three methods to manipulate the DOM.
+There are many ways of manipulate the DOM standard this comes in handy when a developer wants to efect the way a browser 
+displays elements and make them have different fucntions.  
+Three examples of this woukd be:
+-getElementById
+-getElementsByClassName
+-innerHTML
+The two first examples are methods that when called will seek out or find the HTML element by either an id or class tag.
+The last example is to actually change the HTML we have found with the first methods. 
+
 What is an asynchronous call?
+When we are talking about an asynchronous call we are refering to code that doesnt wait for the API call 
+to return from the server. With asynchronous calls we risk that the code won's run in the order we want it to, 
+simply because the code will not wait to recieve the necicarry information. 
+
 Briefly explain what the sources tab in Chromes Developers Tools does.
+The source tab in the developer tools of google chrome will show you the code required to ru the specific 
+page you are looking at.  
+
 What is a JavaScript promise?
+A JS promise is used in cases with asynchronous calls,
 What is an API?
+
 What is a JavaScript Event?
+In JavaScript when we are talking about an event we are refering to soemthing that has to be triggered, 
+either by the user or the browser. An example would be a button. 
+
 What is event bubbling?
+
