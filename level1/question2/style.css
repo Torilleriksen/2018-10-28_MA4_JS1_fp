@@ -1,1 +1,15 @@
 
+section article {
+  width: 33%;
+  float: left;
+}
+
+section p {
+  margin: 5px 0;
+}
+
+section h1 h2 {
+  font-size: 2.5rem;
+  letter-spacing: -5px;
+  margin-bottom: 10px;
+}
